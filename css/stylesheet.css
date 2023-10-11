@@ -25,7 +25,7 @@ body{
     display: block;
     width: 20vw;
     border: none;
-    color: white;
+    color: rgb(111, 143, 175);
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
